@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "Matina-ParsaeeNia"
+title                    : "Matina"
 title_separator          : "-"
 name                     : "Matina" 
 description              : "Welcome to my web site."
@@ -109,8 +109,7 @@ analytics:
 author:
   name             : "Matina ParsaeeNia"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Hi, I'm Matina.
-                      CE student at IUST."
+  bio              : "CE student at IUST."
                      
   location         : "Tehran"
   email            : matinaparsaeeniam@gmail.com
@@ -140,7 +139,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/Matinamhh"
 
 # Site Footer
 footer:
